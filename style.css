@@ -1,0 +1,20 @@
+main {
+    background-color:#dde0cf;
+    padding: 4%;
+}
+.introdução{
+    text-align: center;
+    padding: 30px;
+}
+.tecnologias{
+    text-align: center;
+}
+.logoTec{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 1fr 1fr;
+}
+img{
+    max-width: 25%;
+    max-height: 255%;
+}
