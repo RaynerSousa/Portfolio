@@ -14,12 +14,6 @@ main {
 img{
     max-width: 25%;
    }
-.footer{
-    display: grid;
-    grid-template-columns: repeat(6,1fr);
-    grid-template-rows: repeat(4,1fr);
-}
-
 .fotoPerfil{
     max-width: 100px;
     border-radius: 50%;
@@ -28,22 +22,15 @@ img{
 .sobre-section{
     padding-top: 5rem;
 }
-/* .social a {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 3rem;
-    height: 3rem;
-    background: transparent;
-    border: .1rem solid black;
-    border-radius: 50%;
-    color: black;
-    background-color:cadetblue; */
-/* } */
 .pro{
     padding: 10%;
 }
-footer {
-    margin: 0%;
-    color: white;
+#projetos{
+    width: 20rem;
+}
+li{
+    list-style: none;
+}
+.footer img{
+    width: 40px;
 }
