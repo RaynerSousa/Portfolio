@@ -4,11 +4,11 @@ O site vai monstra um pouco sobre o rayner e sobre suas qualificações e as lin
 
 ## IMAGENS DO SITE 
 .introdução do site
-<img src = "introdução.png">
+<img src = "img/introdução.png">
 .Tecnologias
-<img src = "tecnologias.png">
+<img src = "img/tecnologias.png">
 .projetos e radaper
-<img src = "proj_foot.png">
+<img src = "img/proj_foot.png">
 
 
 
