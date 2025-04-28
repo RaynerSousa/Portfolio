@@ -3,7 +3,7 @@ O site vai monstra um pouco sobre o rayner e sobre suas qualificações e as lin
 
 
 ## IMAGENS DO SITE 
-<img src = "eu.jpeg">
+<img src = "introdução.png">
 
 
 
