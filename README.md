@@ -13,3 +13,9 @@ O site vai mostra um pouco sobre o rayner e sobre suas qualificações e as ling
 - **HTML5**
 - **CSS3**
 - **BOOTSTRAP**
+
+
+## Contatos
+- **Telefone: (88)9 8219-0047**
+- **Email: raynerwhanyfek@gmail.com**
+- **Linkdin: Rayner Whanyfe**
