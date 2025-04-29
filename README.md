@@ -1,5 +1,5 @@
-# repositorio portf-lio do rayner:
-O site vai monstra um pouco sobre o rayner e sobre suas qualificações e as linguagem e framework que conheçe.
+# portf-lio do rayner
+O site vai mostra um pouco sobre o rayner e sobre suas qualificações e as linguagem e framework que ele conheçe.Assim com o objetivo de conhecer mais o desenvolvedor e como ele trabalha
 
 
 ## IMAGENS DO SITE 
@@ -7,11 +7,9 @@ O site vai monstra um pouco sobre o rayner e sobre suas qualificações e as lin
 <img src = "img/introdução.png">
 .Tecnologias
 <img src = "img/tecnologias.png">
-.projetos e radaper
-<img src = "img/proj_foot.png">
-
 
 
 ## Linguagem/framework usados para construir o site
-.HTML5  | .BOOTSTRAP
-.CSS    | 
+- **HTML5**
+- **CSS3**
+- **BOOTSTRAP**
