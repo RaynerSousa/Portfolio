@@ -11,7 +11,7 @@ main {
 .tecnologias{
     padding: 8%;
 }
-img{
+.logoTec img{
     max-width: 25%;
    }
 .fotoPerfil{
@@ -24,6 +24,11 @@ img{
 }
 .pro{
     padding: 10%;
+}
+.img-top{
+    margin: 10px;
+    height: auto;
+    border-radius: 10px;
 }
 #projetos{
     width: 20rem;

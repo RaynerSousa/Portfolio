@@ -12,6 +12,6 @@ O site vai monstra um pouco sobre o rayner e sobre suas qualificações e as lin
 
 
 
-## Linguagem usadas para construir o site
+## Linguagem/framework usados para construir o site
 .HTML5  | .BOOTSTRAP
 .CSS    | 
